@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: Android;
-    src: url(/src/font/idroid.otf)
+    src: url('../font/idroid.otf')
 }
 
 :root {
@@ -179,4 +179,5 @@ footer > p > a {
 footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
+
 }
